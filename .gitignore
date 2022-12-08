@@ -1,0 +1,11 @@
+x64/
+x86/
+.vs/
+.DS_Store
+._*
+desktop.ini
+.vs/
+build/
+out/
+AudioTest/
+version.aps
